@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/furkannjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="furkannjs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkankarakuzu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="furkankarakuzu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14901143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14901143" height="30" width="40" /></a>ß
+<a href="https://stackoverflow.com/users/14901143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14901143" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uc0stwpfmieqpvfwjqwri0qg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc0stwpfmieqpvfwjqwri0qg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/furkankarakuzu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="furkankarakuzu" height="30" width="40" /></a>
 </p>
